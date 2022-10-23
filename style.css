@@ -712,3 +712,7 @@ p {
 	}
 }
 /* End  Media Query For Desktop */
+
+.logo { 
+    font-size: 30px;
+}
