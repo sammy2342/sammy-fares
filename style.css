@@ -716,3 +716,22 @@ p {
 .logo { 
     font-size: 30px;
 }
+
+.automina { 
+	color: white;
+	text-decoration: none;
+}
+
+.automina:hover { 
+	color: crimson;
+}
+
+.blackJack { 
+	color: white;
+	text-decoration: none;
+}
+
+
+.blackJack:hover { 
+	color: crimson;
+}
